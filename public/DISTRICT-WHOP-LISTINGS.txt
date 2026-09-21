@@ -1,0 +1,212 @@
+AEGIS DISTRICT — WHOP LISTINGS + CRATE TERMS
+Paste into Whop → Products → Add Product.
+Category: Software / Agencies / AI.
+Do not use JOIN NOW, dollar-rain, or “AI marketing team” language.
+Public lots do not receive the HUD.
+
+════════════════════════════════════
+1. AMBASSADOR SEAT  (list this first)
+════════════════════════════════════
+
+Title (≤80)
+Mini Hydra — Ambassador Seat
+
+Headline
+Locked face. Daily belt. Weekly keep/kill. One client.
+
+Route
+mini-hydra-ambassador
+
+Visibility
+visible
+
+Pricing
+Recurring · USD · $197 / month
+Optional second period: $1,788 / year ($149/mo)
+
+CTA
+get_access
+
+Checkout questions (required)
+1. Client or product name (short text)
+2. This is an original adult identity I am authorized to run. (yes/no)
+3. I will not task hunts or copy the District HUD. (yes/no)
+
+Affiliate
+Member affiliate ON · 10% of first month only
+Global marketplace affiliate OFF (or 5% max)
+
+Description (paste)
+
+Mini Hydra Ambassador is a three-head seat for one original product.
+
+HEADS
+P-01 Persona — lock one adult identity, voice, and what they may say
+G-03 Social Engine — 3 posts, 1 thread, 1 follow-up. Public copy only
+G-05 Growth Watch — lift, kill the mute, one patch
+
+YOU GET
+• Persona lock (face, voice, brief)
+• Social packet each week
+• Watch receipt (keep / kill / next)
+• One running chassis. You authorize spend. Hydra does not buy ads.
+
+YOU DO NOT GET
+• The Aegis District HUD
+• Lotus hunts or Kestrel
+• A marketplace face
+• Live ad spend from this seat
+• Influencer or Cyber stencils (separate SKUs)
+
+CADENCE
+Daily posts. Weekly keep/kill. Face lock holds until you cancel or we pull the head.
+
+WHO IT IS FOR
+Brand ambassadors and operators running one original product in public.
+
+WHO IT IS NOT FOR
+Anyone who needs a hunt, a borrowed likeness, or the whole citadel.
+
+TERMS
+Seat is licensed, not sold. Cancel anytime; chassis goes dark at period end.
+Resale of this seat or a copy of it is a Fleet Crate matter — see Crate Terms.
+Aegis levy (18%) applies only if you resell a stamp onward, not on this checkout.
+Whop’s processing fee is separate.
+
+════════════════════════════════════
+2. FLEET CRATE — 12 STAMPS  (agency, after seat sells)
+════════════════════════════════════
+
+Title (≤80)
+Mini Hydra — Fleet Crate (12)
+
+Headline
+One locked stencil. Twelve stamps. No HUD.
+
+Route
+mini-hydra-fleet-crate
+
+Visibility
+hidden until Ambassador has a paying seat, then visible
+
+Pricing
+One-time · USD · $1,680
+Stock: 8 crates / month (fleet hold is 12 stamps each)
+
+CTA
+order_now
+
+Checkout questions (required)
+1. Agency / buyer legal name
+2. Stencil (must be one): Ambassador / Influencer / Cyber freelancer
+3. I accept Crate Terms: no HUD copy, 18% levy on onward resale. (yes/no)
+
+Affiliate
+OFF on crates
+
+Description (paste)
+
+A Fleet Crate is wholesale of stamps, not wholesale of the District.
+
+WHAT SHIPS
+• Twelve Mini Hydra chassis
+• All twelve are the same locked stencil you name at checkout
+• Public-safe spec sheet (HUD withheld)
+• Serials Z-xx through the hold
+
+WHAT DOES NOT SHIP
+• Aegis District HUD
+• Growth House, Black Lotus, Persona Annex, or Meta OS floors
+• The right to mint a new stencil
+• The right to drop the levy
+
+PRICE MATH
+Seat is $197/mo. Crate is $140 per stamp, paid once, for operators who already ran the loop.
+One stencil per crate. Second SKU = second crate.
+
+════════════════════════════════════
+3. CRATE TERMS  (bind on checkout)
+════════════════════════════════════
+
+AEGIS DISTRICT — FLEET CRATE LICENSE
+Version 1 · Shadow Hand / Aegis
+
+1. LICENSE
+   Aegis grants a non-exclusive license to run the twelve stamped chassis
+   in this crate. Title to the stencil, the protocol, and the HUD stays
+   with Aegis.
+
+2. ONE STENCIL
+   All twelve stamps are copies of the named lock (Ambassador, Influencer,
+   or Cyber freelancer). Mixing heads inside a stamp voids the license
+   for that stamp.
+
+3. NO HUD
+   Buyer does not receive District Meta OS, Jarvises, floor programs, or
+   the citadel interface. Public-safe spec only.
+
+4. NO CITADEL WHOLESALE
+   This crate is not a sale of Growth, Lotus, Persona, or Meta OS.
+   Buildings are not for sale.
+
+5. NO NEW LOCKS
+   Buyer may not mint, fork, or fleet-press a new stencil from these
+   stamps. New locks are pressed only on Aegis fleet.
+
+6. ONWARD RESALE
+   Buyer may place a stamp with one end client.
+   If buyer sells or transfers a stamp, Aegis levy is 18% of that ask,
+   due on close. Whop fees on the original crate are separate and
+   already paid.
+
+7. IDENTITY
+   Ambassador and Influencer stamps require an original adult identity
+   the end client is authorized to run. No marketplace likeness.
+
+8. SPEND AND HUNTS
+   Influencer: ad spend stays gated until the operator authorizes.
+   Ambassador: no live ads from the chassis.
+   No stamp may task Lotus hunts or Kestrel.
+
+9. HOLD AND REPLACEMENT
+   Lost serials are not replaced. Defective stamp (won't run the named
+   loop) is replaced once within 14 days.
+
+10. TERM
+    License runs while the stamp is in service. Crate fee is not a
+    subscription. Seat SKUs remain monthly and are not included.
+
+11. REVOCATION
+    Aegis may revoke a stamp that copies the HUD, drops the levy, or
+    runs a hunt. Remaining stamps in the crate stay in force.
+
+12. PUBLIC LOTS
+    Landings and packets stay teaser. Full HUD never ships on a sale lot.
+
+Receipt line: AG-EQ / META-OS / CRATE-12 / [stencil] / [date] / Shadow Hand
+
+════════════════════════════════════
+4. GUMROAD (not Whop) — teaser packet
+════════════════════════════════════
+
+Title
+District Meta OS Protocol
+
+Price
+$29 one-time
+
+File
+The packet Clerk compiles: protocol + three set specs, HUD stripped.
+
+Description
+Public-safe operating law for Aegis District. Not the HUD. Not a hydra.
+Sends you to the Ambassador seat if you need a running loop.
+
+════════════════════════════════════
+5. PASTE ORDER
+════════════════════════════════════
+
+This week: listing 1 only (Ambassador Seat) + cover MINI HYDRA / AMBASSADOR SEAT.
+Do not publish the crate until that seat has one paying member.
+Do not list Influencer or Cyber until Ambassador holds.
+Do not list “full district wholesale.” That SKU does not exist.

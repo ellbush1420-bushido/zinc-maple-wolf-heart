@@ -1,0 +1,136 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #050505;
+  --color-elevated: #0c0c0c;
+  --color-paper: #f2ede6;
+  --color-mute: #8a8478;
+  --color-line: #1a3a24;
+  --color-signal: #3cff7a;
+  --color-signal-hot: #6dff9a;
+  --color-signal-dim: #0f2a18;
+  --font-display: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --font-sans: "IBM Plex Sans", "Segoe UI", sans-serif;
+  --text-2xs: 0.625rem;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-display: clamp(2.25rem, 1.4rem + 4vw, 4.35rem);
+  --text-kicker: 0.6875rem;
+  --radius-sm: 0px;
+  --radius-md: 0px;
+  --radius-lg: 0px;
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --motion-quick: 150ms;
+  --motion-fast: 250ms;
+  --motion-orbit: 96s;
+  --size-sunburst: min(80vw, 34rem);
+  --opacity-sunburst: 0.42;
+  --art-filter: sepia(1) saturate(5.2) hue-rotate(78deg) brightness(0.95);
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  html,
+  body,
+  #app {
+    min-height: 100dvh;
+    background: var(--color-bg);
+    color: var(--color-paper);
+  }
+  body {
+    font-family: var(--font-sans);
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+}
+
+img {
+  filter: var(--art-filter);
+}
+
+.plate-zoom {
+  transform: scale(1.15);
+  transform-origin: 50% 42%;
+}
+
+.floor-hotspot {
+  position: absolute;
+  clip-path: polygon(16% 0, 84% 0, 96% 100%, 4% 100%);
+  background: transparent;
+  border: 0;
+  transition:
+    background-color var(--motion-fast) var(--ease-out),
+    opacity var(--motion-fast) var(--ease-out);
+}
+.floor-hotspot.is-hot {
+  background: color-mix(in oklab, var(--color-signal) 42%, transparent);
+  box-shadow: inset 0 0 0 1px var(--color-signal);
+}
+.floor-hotspot.is-dim {
+  opacity: 0.35;
+}
+.floor-hotspot:hover {
+  background: color-mix(in oklab, var(--color-signal) 28%, transparent);
+}
+.floor-hotspot.is-hot:hover {
+  background: color-mix(in oklab, var(--color-signal) 52%, transparent);
+}
+
+/* Industrial 12-point mill-cut field — poster sunburst, not a cartoon sun. */
+.sunburst-plate {
+  pointer-events: none;
+  position: absolute;
+  left: 30%;
+  top: 7.5rem;
+  width: var(--size-sunburst);
+  height: var(--size-sunburst);
+  translate: -42% -38%;
+  opacity: var(--opacity-sunburst);
+}
+.sunburst-orbit {
+  transform-origin: 50% 50%;
+  animation: sunburst-orbit var(--motion-orbit) linear infinite;
+}
+
+.hydra-run {
+  animation: hydra-pulse var(--motion-fast) var(--ease-out) infinite alternate;
+}
+
+@keyframes sunburst-orbit {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes hydra-pulse {
+  from {
+    filter: var(--art-filter) brightness(1);
+  }
+  to {
+    filter: var(--art-filter) brightness(1.18);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .floor-hotspot {
+    transition: none;
+  }
+  .sunburst-orbit,
+  .hydra-run {
+    animation: none;
+  }
+}

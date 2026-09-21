@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#050505"/>
+  <g fill="none" stroke="#FF5C1A" stroke-width="2" stroke-linecap="square">
+    <line x1="16" y1="3" x2="16" y2="8"/>
+    <line x1="16" y1="24" x2="16" y2="29"/>
+    <line x1="3" y1="16" x2="8" y2="16"/>
+    <line x1="24" y1="16" x2="29" y2="16"/>
+    <line x1="6.8" y1="6.8" x2="10.3" y2="10.3"/>
+    <line x1="21.7" y1="21.7" x2="25.2" y2="25.2"/>
+    <line x1="25.2" y1="6.8" x2="21.7" y2="10.3"/>
+    <line x1="10.3" y1="21.7" x2="6.8" y2="25.2"/>
+    <line x1="10.1" y1="4.1" x2="12.3" y2="8.4"/>
+    <line x1="19.7" y1="23.6" x2="21.9" y2="27.9"/>
+    <line x1="27.9" y1="10.1" x2="23.6" y2="12.3"/>
+    <line x1="8.4" y1="19.7" x2="4.1" y2="21.9"/>
+  </g>
+  <rect x="10" y="13" width="3" height="11" fill="#FF5C1A"/>
+  <rect x="14.5" y="9" width="3" height="15" fill="#FF5C1A"/>
+  <rect x="19" y="11" width="3" height="13" fill="#FF5C1A"/>
+</svg>

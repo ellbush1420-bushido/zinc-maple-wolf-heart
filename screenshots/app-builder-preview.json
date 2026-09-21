@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aegis District",
+      "hasCanvas": false,
+      "bodyTextLen": 1007,
+      "bodyTextHash": "d6e876b35a2e41ba6add6ab67e1e30f2c7f1f15aef5b1a927785e2bfd7c01806",
+      "bodyTextPrefix": "AEGIS DISTRICT AEGIS // CITADEL // HEADS 0/3 // READY DISTRICT L",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aegis District",
+      "hasCanvas": false,
+      "bodyTextLen": 1007,
+      "bodyTextHash": "d6e876b35a2e41ba6add6ab67e1e30f2c7f1f15aef5b1a927785e2bfd7c01806",
+      "bodyTextPrefix": "AEGIS DISTRICT AEGIS // CITADEL // HEADS 0/3 // READY DISTRICT L",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

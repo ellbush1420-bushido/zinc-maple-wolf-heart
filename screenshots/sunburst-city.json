@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aegis District",
+      "hasCanvas": false,
+      "bodyTextLen": 714,
+      "bodyTextHash": "7b21a5db9e8aaaa5c72432fea7c5e9ec0d24c5fcf5ebb5b9fe8d273d49875364",
+      "bodyTextPrefix": "AEGIS DISTRICT AEGIS // CITADEL // HEADS 0/3 // READY DISTRICT L",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/sunburst-city.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aegis District",
+      "hasCanvas": false,
+      "bodyTextLen": 714,
+      "bodyTextHash": "7b21a5db9e8aaaa5c72432fea7c5e9ec0d24c5fcf5ebb5b9fe8d273d49875364",
+      "bodyTextPrefix": "AEGIS DISTRICT AEGIS // CITADEL // HEADS 0/3 // READY DISTRICT L",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/sunburst-city-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/sunburst-city.json"
+}

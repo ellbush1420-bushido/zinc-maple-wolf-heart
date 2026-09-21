@@ -1,0 +1,102 @@
+DISTRICT META OS PROTOCOL
+Aegis District · B0 · two floors · Jarvis Clerk
+Public-safe packet. HUD withheld.
+
+0. SCOPE
+This protocol binds the citadel: three houses, one two-floor Meta OS lot,
+Mini Hydra Zeta (max three heads), Aegis on the rail, Jarvises on their lots.
+One program per floor. Programs do not leave their floors. Hydra only borrows.
+
+1. LOTS
+B4  Growth House         Jarvis Voss         marketing floors
+B5  Black Lotus Security Jarvis Lotus Duty   security floors
+B3  Persona Annex        Jarvis Archivist    creative floors
+B0  District Meta OS     Jarvis Clerk        protocol · package  (two floors)
+
+2. FLOORS — META OS
+M-01  District Meta OS Protocol   META-OS    the law
+M-02  Package Dispatch            DISPATCH   compile and send
+
+3. MINI HYDRA
+Chassis is quarter-scale. Three heads: Sentinel, Maker, Herald.
+Seat any mix from security, creative, marketing, or protocol.
+Right combo becomes a loop. List the chassis and it leaves the dock.
+Empty chassis next. Aegis levy 18% of ask. Owner take is the rest.
+Sold hydras do not copy this HUD.
+
+4. SETS — SENDABLE SPECS
+
+4.1  AMBASSADOR  ·  Herald circuit
+Heads  P-01 + G-03 + G-05
+Brand ambassadors who need a locked original face and a public belt that runs without a hunt.
+Cadence  Daily posts. Weekly keep/kill. Face lock holds until you pull the head.
+Heads:
+  Sentinel. P-01 Persona — lock one adult identity, voice register, and what they may say.
+  Maker. G-03 Social Engine — 3 posts, 1 thread, 1 follow-up. Public copy only.
+  Herald. G-05 Growth Watch — measure lift, kill the mute, queue one patch.
+Outputs:
+  - Persona lock (face, voice, brief)
+  - Social packet (posts, thread, follow-up)
+  - Watch receipt (keep / kill / next)
+Gates:
+  - You authorize spend. Hydra does not buy ads.
+  - Original identity only. No marketplace face.
+  - Human gates any change to the lock.
+Will not:
+  - No hunt tickets. Lotus is not on this loop.
+  - No HUD copy on a sale lot.
+  - Herald carries. Sentinel does not pursue.
+
+4.2  INFLUENCER  ·  Personal brand loop
+Heads  P-05 + G-03 + G-04
+Creators who make their own stills, post a daily belt, and test paid angles with spend locked.
+Cadence  Stills on intent. Posts daily. Ad variants held until you open the gate.
+Heads:
+  Sentinel. P-05 Image Generator — 3 original frames: mark, product, social crop.
+  Maker. G-03 Social Engine — daily belt. Short public copy. Reply paths.
+  Herald. G-04 Ad Lab — two angles, one test plan. Spend stays authorized.
+Outputs:
+  - Image-9 stills (mark / product / crop)
+  - Social belt for the week
+  - Two ad variants, unspent
+Gates:
+  - Spend locked until you authorize.
+  - No marketplace likeness. Original art only.
+  - Intent is named before Image-9 runs.
+Will not:
+  - No live ad spend from this chassis.
+  - No borrowed Persona face unless you seat P-01 yourself.
+  - No hunt overlay on the belt.
+
+4.3  CYBER FREELANCER  ·  Security desk for hire
+Heads  L-03 + L-02 + P-06
+Independent operators selling one security program with intake and a public-safe page. No hunts.
+Cadence  Intake as it lands. Program stays packed until you authorize. Page stays public-safe.
+Heads:
+  Sentinel. L-03 Hydra Security Programs — one module, threat model, authorize-to-run.
+  Maker. L-02 Threat Desk — intake, map the exposed floor, hold for you.
+  Herald. P-06 Landing — hero, three proofs, one ask. HUD withheld.
+Outputs:
+  - Security program spec (module list + model)
+  - Threat hold with receipt
+  - Public landing (hero / proof / ask)
+Gates:
+  - You seat the loadout. Hydra does not self-authorize.
+  - Corp cannot call hunts from this desk.
+  - Full HUD never ships on the sale lot.
+Will not:
+  - Lotus Duty will not task Growth.
+  - No Kestrel. No hunt tickets.
+  - Public page is teaser only — program stays on L-03.
+
+5. PACKAGE LAW
+Dispatch compiles this protocol and the three set specs into one file.
+Strip HUD. Public-safe copy only. Recipient does not receive the citadel.
+Jarvis Clerk stamps. Aegis files.
+
+6. CLEARANCE
+Owner / citadel: full HUD.
+Public teaser: maybe.
+Sale lot: never this HUD.
+
+Receipt  AG-EQ / META-OS / DISPATCH / 2026-09-21 02:18:09 / Shadow Hand
